@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AirportLinkNoMap</string>
+    <string name="result_departure">Time of Departure: </string>
+    <string name="result_arrival">Time of Arrival: </string>
+    <string name="result_duration">Duration: </string>
+    <string name="result_price">Price: </string>
+    <string name="result_restart">Restart</string>
+    <string-array name="stations">
+        <item>Phaya Thai</item>
+        <item>Ratchaprarop</item>
+        <item>Makkasan</item>
+        <item>Ramkhamhaeng</item>
+        <item>Hua Mak</item>
+        <item>Ban Thap Chang</item>
+        <item>Lat Krabang</item>
+        <item>Suvarnabhumi</item>
+    </string-array>
+</resources>
